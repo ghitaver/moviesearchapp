@@ -1,8 +1,8 @@
 # moviesearchapp
 # About
-This app let's you search for movies. You just enter a title the movie.
+This application is a movie search application. You simply enter the title of the film.
 
 # Restful API
-The app makse use of the OMDb API. The OMDb API is a RESTful web service to obtain movie information, all content and images on the site are contributed and maintained by our users.
+The film database used in this application is the OMDb API. The OMDb API is a RESTful web service to obtain movie information, all content and images on the site are contributed and maintained by our users.
 
 
